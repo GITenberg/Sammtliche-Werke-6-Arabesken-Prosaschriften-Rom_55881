@@ -1,0 +1,38 @@
+_repo: Sammtliche-Werke-6-Arabesken-Prosaschriften-Rom_55881
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Koenig, Charlotte Lolly
+    gutenberg_agent_id: '48561'
+    url: http://www.gutenberg.org/2009/agents/48561
+  - &id001
+    agent_name: Buek, Otto
+    birthdate: 1873
+    gutenberg_agent_id: '45416'
+    url: http://www.gutenberg.org/2009/agents/45416
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Гоголь, Николай Васильевич
+    - Gogol, Nikolaj
+    - Gogol, Nikolay Vasilyevich
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+  editor: *id001
+description: ''
+gutenberg_issued: '2017-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55881'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sämmtliche Werke 6: Arabesken, Prosaschriften, Rom'
+url: http://www.gutenberg.org/ebooks/55881
